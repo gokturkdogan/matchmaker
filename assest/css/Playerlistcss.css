@@ -1,0 +1,421 @@
+body{
+  background-color: #EDEFF4;
+}
+
+body{
+  background-color: #EDEFF4;
+}
+
+h6{
+  color: white;
+}
+
+.header{
+  background-color: #35363C;
+  padding-top:0;
+  padding-bottom: 0;
+  max-height: fit-content;
+}
+
+.header .headerlogo{
+  width: 100%;
+  margin-top: 30px;
+}
+
+.header .menu{
+  padding: 0px;
+  margin: 55px;
+  text-align: center;
+  display:inline-block;
+  vertical-align:top;
+
+
+}
+
+a {
+  text-decoration: none;
+}
+
+.header .menu .menuitem{
+  list-style-type: none;
+  padding: 40px;
+  height: 24px;
+  margin-top: 10px;
+  margin-bottom: 4px;
+  display: inline;
+}
+
+.header .menu .menuitem a {
+  font-family: Kanit;
+  font-size: large;
+  color: #FFFFFF;
+
+}
+
+.header .menu .menuitem a:hover{
+  color: #fcef57
+}
+
+h3{
+  color: black;
+  margin-top: 20px;
+  font-family: "Kanit";
+  letter-spacing: 0.05em;
+  font-weight: 500;
+  padding-left: 15px;
+  border-left-style: solid;
+  border-left-color: #35AD79 ;
+  border-left-width: 5px;
+}
+
+.btn-primary{
+  margin-top: 20px ;
+  margin-bottom: 20px ;
+  font-weight: 500;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+  transition: .33s;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-style: ridge;
+  border-width: 1px;
+  border-radius: 3px; 
+  color: #fff;
+  background: #35ad79;
+  border-color: #35ad79;
+  border-style: solid;
+}
+
+.btn-primary:hover{
+  background-color: #212529;;
+}
+
+
+/*
+.players{
+  background-color: #FFFFFF;
+  border: #D4D5DB;
+  border-style: ridge;
+  border-width: 1px;
+  width: 100%;
+  
+  text-align: left;
+}
+
+.players a {
+  color: #008FD7;
+}
+
+.players a:hover{
+  color: #1a5f45;
+}
+
+.players tr {
+  background-color: #FFFFFF;
+  border: #D4D5DB;
+  border-style: ridge;
+  border-width: 1px;
+  height: 70px;
+
+}
+
+.players th{
+  
+  width: 5px;
+  height: 100%;
+  
+  
+}
+
+
+.players td{
+
+  width: 5px;
+  height: 100%;
+ 
+}
+
+.players .arrangement{
+  padding-left: 90px;
+  width: 5px;
+}
+
+.players .foot{
+  text-align: left;
+  padding-left: 90px;
+  width: 5px;
+ 
+  
+  
+}
+
+.players img {
+  transition:0.5s;
+  width: 30%;
+}
+
+.players img:hover {
+  width: 35%;
+}
+
+*/
+
+.players{
+  letter-spacing: .05em;
+  font-size: 15px;
+  width: 100%;
+  background-color: #FFFFFF;
+  border: #D4D5DB;
+  border-style: ridge;
+  border-width: 1px;
+  text-align: right;
+}
+
+.players a{
+  color: #007bff;
+  transition: all 0.3s ease-in-out;
+}
+
+.players a:hover{
+  color: #1A5F45;
+}
+
+.players tr {
+  border: #D4D5DB;
+  border-style: ridge;
+  border-width: 1px;
+  text-align: right;
+
+
+
+}
+
+.arrengmenttittle{
+  color: #343a40!important;
+  font-family: 'Kanit';
+  padding-left: 80px;
+  font-weight: 400!important;
+}
+
+.arrengment{
+  padding-left: 80px;
+  color:#35AD79;
+  font-family: 'Kanit';
+}
+
+.foottittle{
+  color: #343a40!important;
+  padding-left: 100px;
+  text-align: left;
+  font-family: 'Kanit';
+  font-weight: 400!important;
+}
+
+.foot {
+  color: #007bff;
+  padding-left: 100px;
+  text-align: left;
+  font-family: 'Kanit';
+}
+
+.playerphototittle{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 60px;
+  font-family: 'Kanit';
+  font-weight: 380!important;
+}
+
+.playerphoto{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 60px;
+  font-family: 'Kanit';
+}
+
+table img{
+  border-radius: 7px;
+  transition: 0.5s;
+  width: 60px;
+  height: 60px;
+}
+
+
+
+.playernametittle{
+  color: #343a40!important;
+  padding-left: 80px;
+  text-align: left;
+  font-family: 'Kanit';
+  font-weight: 400!important;
+
+}
+
+.playername{
+  padding-left: 80px;
+  text-align: left;
+  font-family: 'Kanit';
+}
+
+.positiontittle{
+  color: #343a40!important;
+  padding-left: 300px;
+  padding-right: 0;
+  text-align: left;
+  font-family: 'Kanit';
+  font-weight: 400!important;
+}
+
+.position{
+  
+  color: #151515;
+  padding-left: 300px;
+  padding-right: 0;
+  text-align: left;
+  font-family: 'Kanit';
+  font-weight: 500;
+}
+
+.agetittle{
+  color: #343a40!important;
+  padding-left: 70px;
+  text-align: left;
+  font-family: 'Kanit';
+  font-weight: 400!important;
+}
+
+.age{
+  color: #151515;
+  padding-left: 70px;
+  text-align: left;
+  font-family: 'Kanit';
+  font-weight: 500;
+}
+
+.ratingtittle{
+  color: #343a40!important;
+  padding-left: 0px;
+  text-align: left;
+  font-family: 'Kanit';
+  font-weight: 400!important;
+}
+
+.rating{
+  color: #151515;
+  padding-left: 0px;
+  text-align: left;
+  font-family: 'Kanit';
+  font-weight: 500;
+}
+
+
+.footer{
+  background-color: #35363C;
+  padding: 30px;
+  margin-top: 100px;
+}
+
+.footer .footerlogo {
+  width: 35%;
+  margin-bottom: 0;
+}
+
+.footer table tr{
+  float: left;
+  
+}
+
+
+.footer table img{
+  width: 80px;
+  height: 80px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  margin-left: 40px;
+  
+
+
+}
+
+
+
+.footer p{
+  text-align: justify!important;
+  margin-top: 20px;
+  color: #FFFFFF;
+  max-width: 270px;
+  text-align: center;
+  font-size: 13px;
+  font-family: "Roboto";
+  letter-spacing: 0.025em;
+  font-weight: 400;
+}
+
+.footer h5{
+  font-weight: 700!important;
+  color: #35AD79;
+  margin-bottom: 0;
+}
+
+.footer .mail{
+  margin-top: 0;
+}
+
+.footer hr{
+  color: #FCEF57; height: 4px;
+}
+
+.footer table {
+  text-align: left;
+}
+
+.footer table .photo {
+  width: 100px;
+  height: 100px;
+}
+
+.footer table p{
+  margin-left: 10px;
+  margin-right: 160px;
+  margin-top: 0;
+  margin-bottom: 0;
+  color:#9b9b9b;
+  letter-spacing: 0.05em;
+  font-family: 'Kanit', sans-serif;
+}
+
+.footer table .positioninfo{
+  color:#707279;
+  text-transform: uppercase;
+  margin-left: 10px;
+  margin-right: 160px;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  font-family: 'Kanit', sans-serif;
+  
+}
+
+.footer table .adddate{
+  font-size: 12px;
+  letter-spacing: 0.05em;
+  color: #b7b7b7;
+  font-weight: 600;
+}
+
+.footer table .playernamea{
+  transition: 0.3s;
+  letter-spacing: 0.05em;
+  font-family: 'Kanit', sans-serif;
+  margin-left: 10px;
+  text-transform: uppercase;
+  font-weight: 600;
+  
+}
+
+.footer table .playernamea:hover{
+  color: #35AD79;
+}

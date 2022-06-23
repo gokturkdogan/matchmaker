@@ -1,0 +1,432 @@
+body{
+    background-color: #EDEFF4;
+  }
+
+  h6{
+    color: white;
+  }
+  
+  .header{
+    background-color: #35363C;
+    padding-top:0;
+    padding-bottom: 0;
+    max-height: fit-content;
+  }
+  
+  .header .headerlogo{
+    width: 100%;
+    margin-top: 30px;
+  }
+  
+  .header .menu{
+    padding: 0px;
+    margin: 55px;
+    text-align: center;
+    display:inline-block;
+    vertical-align:top;
+  
+  
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  .header .menu .menuitem{
+    list-style-type: none;
+    padding: 40px;
+    height: 24px;
+    margin-top: 10px;
+    margin-bottom: 4px;
+    display: inline;
+  }
+  
+  .header .menu .menuitem a {
+    font-family: 'Kanit';
+    font-size: large;
+    color: #FFFFFF;
+  
+  }
+  
+  .header .menu .menuitem a:hover{
+    color: #fcef57
+  }
+
+  h3{
+   color: black;
+    margin-top: 45px;
+    font-family: "Kanit";
+    letter-spacing: 0.05em;
+    font-weight: 500;
+    padding-left: 15px;
+    border-left-style: solid;
+    border-left-color: #35AD79 ;
+    border-left-width: 5px; 
+  }
+
+  .btn-primary{
+    margin-top: 20px ;
+    margin-bottom: 20px ;
+    font-weight: 500;
+    letter-spacing: .05em;
+    text-transform: uppercase;
+    transition: .33s;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-style: ridge;
+    border-width: 1px;
+    border-radius: 3px; 
+    color: #fff;
+    background-color: #35ad79;
+    border-color: #35ad79;
+    border-style: solid;
+  }
+  
+  .btn-primary:hover{
+    background-color: #212529;
+  }
+  
+  
+  form{
+      
+    
+    background-color: #FFFFFF;
+
+  }
+
+  form .formheader{
+    
+    color: #35AD79;
+    padding: 20px;
+    background-color: #35363C;
+
+  }
+
+  ul{
+      list-style:none ;
+  }
+
+  ul .fullnamesection{
+    
+    margin-top: 40px;
+  }
+
+  ul .fullnamesection label{
+    color: #1d5c40;
+    font-family: 'Kanit';
+  }
+
+  ul .fullnamesection input{
+    font-family: 'Kanit';
+    height: 35px;
+  }
+
+  ul .birthdate{
+    margin-top: 40px;
+    font-family: 'Kanit';
+  }
+
+  ul .birthdate label{
+    color: #1d5c40;
+  }
+
+  ul .birthdate select{
+    height: 35px;
+    width: 70px;
+    font-family: 'Kanit';
+  }
+
+  ul .phonenumber{
+    margin-top: 40px;
+    font-family: 'Kanit';
+  }
+
+  ul .phonenumber{
+    color: #1d5c40;
+  }
+
+  ul .phonenumber input{
+    height: 35px;
+    font-family: 'Kanit';
+  }
+
+  ul .position {
+    margin-top: 40px;
+    font-family: 'Kanit';
+  }
+
+  ul .position label{
+    color: #1d5c40;
+  }
+
+  ul .position select{
+    height: 35px;
+    font-family: 'Kanit';
+  }
+
+  ul .foot{
+    margin-top: 40px;
+    font-family: 'Kanit';
+  }
+
+  ul .foot label{
+    color: #1d5c40;
+  }
+
+  ul .foot select{
+    height: 35px;
+    font-family: 'Kanit';
+  }
+
+  .uploadphoto{
+    font-family: 'Kanit';
+    margin-top: 90px;
+
+  }
+
+  .uploadphoto img{
+    border-style: solid;
+    border-width: 10px;
+    border-color: #212529;
+    border-radius: 40px;
+    width:50%;
+  }
+
+  .uploadphoto img:hover{
+    border-style: solid;
+    border-width: 10px;
+    border-color: #35AD79;
+    border-radius: 40px;
+    
+  }
+
+  .uploadphoto li{
+    margin-top: 10px;
+  }
+
+  .uploadphoto input{
+    color: black;
+    background-color: #FFFFFF;
+
+  }
+
+
+
+
+
+
+
+ .middlefooter{
+    text-align: center;
+    padding: 60px;
+    background-color: #35363C;
+    margin-top: 40px
+  }
+
+  .middlefooter img{
+      
+    width: 20%;
+  }
+  
+ .buttons {
+     text-align: center;
+     margin-top: 40px;
+ }
+
+  
+  
+  
+  input {
+    color: #FFFFFF;
+    background-color: #BABABA;
+    border-style: none;
+    border-radius: 5px;
+  }
+
+  select{
+    color: #FFFFFF;
+    background-color: #BABABA;
+    border-style: none;
+    border-radius: 5px;
+  }
+
+
+  button:hover {
+      background-color: #212529;
+      color: #FFFFFF;
+  }
+
+
+
+
+.buttons input{
+  transition: 0.5s;
+  margin-right: 10px;
+  background-color: #35AD79;
+  color: white;
+  font-family: 'Kanit';
+  border-color: #35AD79;
+}
+
+.buttons input:hover{
+  background-color: #212529;
+  color: white;
+}
+
+
+
+
+  .formfooter{
+    color: #35AD79;
+    padding: 20px;
+    background-color: #35363C;
+  }
+
+
+
+
+
+
+
+
+  #real {
+    display: none;
+  }
+  
+  #fake-button {
+    background-image: url("assest/images/simpleplayerphoto.jpg");
+    background-size: 100%;
+    border-style: solid;
+    border-width: 10px;
+    border-color: #212529;
+    border-radius: 40px;
+    width:50%;
+    height: 300px;
+  }
+
+  #fake-button:hover{
+    border-color: #35AD79;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .footer{
+    background-color: #35363C;
+    padding: 30px;
+    margin-top: 100px;
+  }
+  
+  .footer .footerlogo {
+    width: 35%;
+    margin-bottom: 0;
+  }
+  
+  .footer table img{
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    transition:0.5s;
+  
+  
+  }
+  
+  .footer table img:hover {
+    width: 103%;
+    border-radius: 0;
+  }
+  
+  .footer p{
+    text-align: justify!important;
+    margin-top: 20px;
+    color: #FFFFFF;
+    max-width: 270px;
+    text-align: center;
+    font-size: 13px;
+    font-family: "Roboto";
+    letter-spacing: 0.025em;
+    font-weight: 400;
+  }
+  
+  .footer h5{
+    font-weight: 700!important;
+    color: #35AD79;
+    margin-bottom: 0;
+  }
+  
+  .footer .mail{
+    margin-top: 0;
+  }
+  
+  .footer hr{
+    color: #FCEF57; height: 4px;
+  }
+  
+  .footer table {
+    text-align: left;
+  }
+  
+  .footer table .photo {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .footer table p{
+    margin-left: 10px;
+    margin-right: 100px;
+    margin-top: 0;
+    margin-bottom: 0;
+    color:#9b9b9b;
+    letter-spacing: 0.05em;
+    font-family: 'Kanit', sans-serif;
+  }
+  
+  .footer table .positioninfo{
+    color:#707279;
+    text-transform: uppercase;
+    margin-left: 10px;
+    margin-right: 100px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    font-family: 'Kanit', sans-serif;
+    
+  }
+  
+  .footer table .adddate{
+    font-size: 12px;
+    letter-spacing: 0.05em;
+    color: #b7b7b7;
+    font-weight: 600;
+  }
+  
+  .footer table .playernamea{
+    transition: 0.3s;
+    letter-spacing: 0.05em;
+    font-family: 'Kanit', sans-serif;
+    margin-left: 10px;
+    text-transform: uppercase;
+    font-weight: 600;
+    
+  }
+  
+  .footer table .playernamea:hover{
+    color: #35AD79;
+  }

@@ -1,0 +1,246 @@
+body{
+    background-color: #EDEFF4;
+  }
+
+  h6{
+    color: white;
+  }
+  
+  .header{
+    background-color: #35363C;
+    padding-top:0;
+    padding-bottom: 0;
+    max-height: fit-content;
+  }
+  
+  .header .headerlogo{
+    width: 100%;
+    margin-top: 30px;
+  }
+  
+  .header .menu{
+    padding: 0px;
+    margin: 55px;
+    text-align: center;
+    display:inline-block;
+    vertical-align:top;
+  
+  
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  .header .menu .menuitem{
+    list-style-type: none;
+    padding: 40px;
+    height: 24px;
+    margin-top: 10px;
+    margin-bottom: 4px;
+    display: inline;
+  }
+  
+  .header .menu .menuitem a {
+    font-family: 'Kanit';
+    font-size: large;
+    color: #FFFFFF;
+  
+  }
+  
+  .header .menu .menuitem a:hover{
+    color: #fcef57
+  }
+
+  h3{
+    color: black;
+     margin-top: 45px;
+     font-family: "Kanit";
+     letter-spacing: 0.05em;
+     font-weight: 500;
+     padding-left: 15px;
+     border-left-style: solid;
+     border-left-color: #35AD79 ;
+     border-left-width: 5px; 
+   }
+
+   .playerphoto{
+    
+      margin-top: 30px;
+      margin-left: 30px;
+
+   }
+
+   .playerphoto img{
+       width: 100%;
+       border-style: solid;
+       border-width: 6px;
+       border-radius: 10px;
+       border-color: #35AD79;
+   }
+
+   .playerinfo{
+    font-family: 'Kanit';
+    margin-top: 30px;
+     
+   }
+
+   .playerinfo .playerstats{
+       list-style-type: none;
+   }
+
+   .playerinfo .playerstats .playerstatkind{
+       margin-right: 10px;
+    float: left;
+   }
+
+   .playerinfo .playerstats .playerstatvalue{
+    color: #35AD79;
+   }
+
+   .position{
+       background-color: white;
+       border: #D4D5DB;
+       border-style: ridge;
+       border-width: 1px;
+   }
+
+   .position img{
+     width: 81%;
+     border-radius: 30px;
+     border-style: solid;
+     border-width: 7px;
+     
+   }
+
+   .position img:hover{
+     border-color: #35AD79;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   .footer{
+    background-color: #35363C;
+    padding: 30px;
+    margin-top: 100px;
+  }
+  
+  .footer .footerlogo {
+    width: 35%;
+    margin-bottom: 0;
+  }
+  
+  .footer table tr{
+    float: left;
+    
+  }
+  
+  
+  .footer table img{
+    width: 80px;
+    height: 80px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    
+  
+  
+  }
+  
+  
+  
+  .footer p{
+    text-align: justify!important;
+    margin-top: 20px;
+    color: #FFFFFF;
+    max-width: 270px;
+    text-align: center;
+    font-size: 13px;
+    font-family: "Roboto";
+    letter-spacing: 0.025em;
+    font-weight: 400;
+  }
+  
+  .footer h5{
+    font-weight: 700!important;
+    color: #35AD79;
+    margin-bottom: 0;
+  }
+  
+  .footer .mail{
+    margin-top: 0;
+  }
+  
+  .footer hr{
+    color: #FCEF57; height: 4px;
+  }
+  
+  .footer table {
+    text-align: left;
+  }
+  
+  .footer table .photo {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .footer table p{
+    margin-left: 10px;
+    margin-right: 160px;
+    margin-top: 0;
+    margin-bottom: 0;
+    color:#9b9b9b;
+    letter-spacing: 0.05em;
+    font-family: 'Kanit', sans-serif;
+  }
+  
+  .footer table .positioninfo{
+    color:#707279;
+    text-transform: uppercase;
+    margin-left: 10px;
+    margin-right: 160px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    font-family: 'Kanit', sans-serif;
+    
+  }
+  
+  .footer table .adddate{
+    font-size: 12px;
+    letter-spacing: 0.05em;
+    color: #b7b7b7;
+    font-weight: 600;
+  }
+  
+  .footer table .playernamea{
+    transition: 0.3s;
+    letter-spacing: 0.05em;
+    font-family: 'Kanit', sans-serif;
+    margin-left: 10px;
+    text-transform: uppercase;
+    font-weight: 600;
+    
+  }
+  
+  .footer table .playernamea:hover{
+    color: #35AD79;
+  }

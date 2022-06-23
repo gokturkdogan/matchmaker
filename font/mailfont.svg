@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2022 by original authors @ fontello.com</metadata>
+<defs>
+<font id="mailfont" horiz-adv-x="1000" >
+<font-face font-family="mailfont" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="noun-mail-4677622" unicode="&#xe800;" d="M725 700h-450c-20 0-39-8-53-22-14-14-22-33-22-53v-350c0-20 8-39 22-53 14-14 33-22 53-22h450c20 0 39 8 53 22 14 14 22 33 22 53v350c0 20-8 39-22 53-14 14-33 22-53 22z m-450-50h450c7 0 13-3 18-7 4-5 7-11 7-18v-52l-250-124-250 124v52c0 7 3 13 7 18s11 7 18 7z m450-400h-450c-7 0-13 3-18 7s-7 11-7 18v242c9-2 247-128 250-118 2-10 242 116 250 118v-242c0-7-3-13-7-18s-11-7-18-7z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
