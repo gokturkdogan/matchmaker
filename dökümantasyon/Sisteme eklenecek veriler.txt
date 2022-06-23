@@ -1,9 +1,0 @@
---Tesis--
-Adı: Çamlık
-Adresi: Çamlık, Erguvan Sokağı No:2, 34912 Pendik/İstanbul
-Saha Tipi: Kapalı
-Teleton Numarası: (0216) 586 57 75
-Saha Sayısı: 3
-https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12057.639804064527!2d29.2811977!3d40.9286817!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9fcb34019fdb5357!2s%C4%B0BB%20Pendik%20%C3%87aml%C4%B1k%20Spor%20Tesisleri!5e0!3m2!1str!2str!4v1654526346938!5m2!1str!2str" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade
-
-
